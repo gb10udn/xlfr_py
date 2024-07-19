@@ -1,0 +1,6 @@
+pylightxl
+
+# [dev]
+pyinstaller
+mypy
+lxml
